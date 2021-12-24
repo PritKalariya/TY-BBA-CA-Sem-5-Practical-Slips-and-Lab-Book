@@ -1,6 +1,6 @@
 class Q2_A:
     def get_string(self):
-        self.string = input("Enter a string: ")
+        self.string = (input("Enter a string: ")).upper()
 
     def print_string(self):
         print(self.string)
