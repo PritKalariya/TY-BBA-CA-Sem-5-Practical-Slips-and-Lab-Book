@@ -1,3 +1,6 @@
+# Write a python script to generate Fibonacci terms using generator function.
+
+
 def fin(n):
     a, b = 0, 1
 
